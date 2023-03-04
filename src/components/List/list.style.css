@@ -1,0 +1,14 @@
+.container {
+    height: 80vh;
+    overflow-y: auto;
+    width: 60vw;
+}
+
+.list-group a {
+    text-decoration: none;
+}
+
+.rounded-pill {
+    height: 22px;
+    cursor: pointer;
+}
